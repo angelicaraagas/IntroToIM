@@ -1,4 +1,4 @@
-#Self-Portrait Process
+#Self-Portrait Process#
 
 ![alt text](https://github.com/angelicaraagas/IntroToIM/blob/main/Sept%207/Screen%20Shot%202021-09-06%20at%203.05.12%20PM.png)
 
