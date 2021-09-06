@@ -1,1 +1,2 @@
 # IntroToIM
+Angelica Raagas
