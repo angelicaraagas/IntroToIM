@@ -244,7 +244,17 @@ void setup() {
  }
 ```
 
+**SEPT 21** Review Zoom 
+**pushMatrix()** - remembers your current position on the canvas.
+**popMatrix()** - pops the current transformation matrix off the stack. 
 
+**frameCount()** - contains the number of frames that have been displayed since the program started.
+
+The **% (percent) symbol** is used to carry out remainder operation. Remainder operation calculates the remainder when one integer is divided by another.
+
+**Robot Case Study**
+
+https://processing.org/tutorials/transform2d/#case-study-an-arm-waving-robot
 
 
 
